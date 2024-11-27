@@ -1,4 +1,4 @@
-public class hello
+public class prime1
 {
     public static void main(String[] args)
  {
